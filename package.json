@@ -1,0 +1,8 @@
+{
+  "name": "mebi-accessories",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Mebi Accessories: a static, mobile-first shop with WhatsApp ordering and an admin dashboard for photos and products.",
+  "dependencies": { "@netlify/blobs": "^8.1.0" }
+}
